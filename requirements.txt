@@ -1,0 +1,9 @@
+scipy
+numpy
+silero_vad
+soundcard
+faster_whisper
+av==14
+python-env
+dotenv
+openai
